@@ -1,12 +1,9 @@
 # 💫 About Me:
-I am Rishabh Shrivastav, a software engineer with a strong focus on financial technology and quantitative analysis. My expertise lies in programming languages like Python, Java, C++, and C, alongside a solid foundation in advanced statistics, data analysis, and machine learning, deep learning, generative AI. I am deeply interested in algorithmic trading, where I leverage statistical models and data processing techniques to develop, test, and optimize trading strategies.<br>
+Hey there, I'm Rishabh Shrivastav—I speak fluent Python, but don't worry, I’m also great at small talk. By day, I’m a software engineer mixing finance with tech like it’s a signature cocktail. By night? 😎😉<br>
 
-I have honed my skills through various projects and leadership experiences. As a team lead and a participant in various challenges one of which is the Smart India Hackathon, I have demonstrated the ability to analyze complex problems and design innovative, data-driven solutions. Additionally, I have collaborated with multidisciplinary teams to execute projects that demand technical precision and strategic thinking.<br>
+My technical toolkit is basically a Swiss Army knife with way too many attachments—financial modeling, time series forecasting, optimization, fine-tuning, and occasionally, summoning models from scratch like a machine learning wizard. I build systems using TimescaleDB, MongoDB, SQL, and RESTful APIs—because why use one database when you can have four? I’ve dabbled in correlation metrics, clustering, and  mean-reversion strategies—which is basically betting that stonks will chill out eventually.<br>
 
-My technical toolkit includes proficiency in financial modeling, time series forecasting, optimization, fine-tuning, making from scratch, and implementing tools like TimescaleDB, MongoDB, SQL, and RESTful APIs. I also have hands-on experience in technologies like TensorFlow and PyTorch, enabling me to apply machine learning and deep learning techniques to real-world financial datasets. Beyond this, I have explored portfolio optimization, correlation metrics, clustering, and mean-reversion strategies, which highlight my ability to integrate finance with cutting-edge technologies.<be>
-
-I am driven by a passion for integrating technology with finance, striving to develop innovative, scalable, and efficient solutions in the financial sector. My aspiration is to remain at the forefront of technological advancements in finance, delivering impactful outcomes through data-driven strategies and creative engineering solutions.<br>
-
+Let's connect<br>
 
 
 
