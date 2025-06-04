@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hey there, I'm Rishabh Shrivastav—I speak fluent Python, but don't worry, I’m also great at small talk. By day, I’m a software engineer mixing finance with tech like it’s a signature cocktail. By night? 😎😉<br>
+Hey there, I'm Rishabh Shrivastav — By day, I’m a software engineer mixing finance with tech like it’s a signature cocktail. By night? 😎😉<br>
 
-My technical toolkit is basically a Swiss Army knife with way too many attachments—financial modeling, time series forecasting, optimization, fine-tuning, and occasionally, summoning models from scratch like a machine learning wizard. I build systems using TimescaleDB, MongoDB, SQL, and RESTful APIs—because why use one database when you can have four? I’ve dabbled in correlation metrics, clustering, and  mean-reversion strategies—which is basically betting that stonks will chill out eventually.<br>
+My technical toolkit is basically a Swiss Army knife with way too many attachments—financial modeling, model building, time series forecasting, optimization, fine-tuning, database, and occasionally, summoning models from scratch like a machine learning wizard. I build systems using TimescaleDB, MongoDB, SQL, and RESTful APIs—because why use one database when you can have four? I’ve dabbled in NLP, DL, and GenAI, LLMs, and trading strategies — which is basically betting that stonks will chill out eventually.<br>
 
 Let's connect<br>
 
